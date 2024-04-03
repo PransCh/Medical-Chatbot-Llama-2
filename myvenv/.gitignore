@@ -15,6 +15,7 @@ share/
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+.gitignore
 
 # Ignore system files
 .DS_Store
